@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5c04155d43740f46a3223a7eb386e0c, type: 3}
+  m_Name: _UIPopupDatabase
+  m_EditorClassIdentifier: 
+  PopupNames:
+  - Coinsboard
+  - ComingSoon
+  - LevelCleared
+  - Points
+  - SuperWords
+  - Words
+  - X2PowerUp
+  Popups:
+  - {fileID: 11400000, guid: 65b84a27d13e94cd9ab7831f6398ee50, type: 2}
+  - {fileID: 11400000, guid: 9abd52fa429b744c3a5c8c444806629c, type: 2}
+  - {fileID: 11400000, guid: afb7addc09d7e49ffba70cd1987cdc1a, type: 2}
+  - {fileID: 11400000, guid: 07f8b0b9170fe436f81e57ce0d77ff03, type: 2}
+  - {fileID: 11400000, guid: 3da130589f16247bcac09db1208b4385, type: 2}
+  - {fileID: 11400000, guid: 3337bfc7830fa4f3e8b5eccd3b65f69b, type: 2}
+  - {fileID: 11400000, guid: ef5eefc17d5aa4110bcdbe8a06993bd3, type: 2}
